@@ -22,7 +22,7 @@ The Bank Management System is a C++ project that aims to provide a simplified so
 
 • Git (for cloning the repository)
 
-• Terminal or Command Prompt
+• Terminal or Command Prompt (here the acutal code runs)
 
 ![op 2 project](https://github.com/Aditya41150/Bank-Management-system/assets/117996501/396b6161-d26d-400e-ba97-e9727e8cdd52)
 
